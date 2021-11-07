@@ -5,6 +5,9 @@ Domain-grabbing with the intention of creating a common landing repo for all the
 
 # repositories
 https://github.com/equinor/fmu-tools
+
 https://github.com/equinor/fmu-config
+
 https://github.com/equinor/fmu-dataio
+
 https://github.com/equinor/fmu-ensemble

@@ -34,3 +34,6 @@ Then upload FMU_logo_with_text.svg to internal wiki.
 ## Contact
 
 JRIV if issues
+
+## License
+The [`FMU` logo](./logo/) is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -54,4 +54,6 @@ _Repositories missing on this list? Please contribute!_
 # License
 _Fast Model Update is a registered trademark_
 
+See individual repositories for respective licenses.
+
 The [`FMU` logo](./logo/) is [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -1,5 +1,5 @@
 # Fast Model Update<sup><small>TM</small></sup> (FMU)
-This is a landing repo for everything FMU. The purpose of this repo is to create an easier entrance to the FMU ecosystem both for internal and external users and contributors. 
+This is a landing repo for everything FMU. The purpose of this repo is to give overview of the FMU ecosystem both for internal and external users and contributors. 
 
 _Fast Model Update (FMU) is an integrated and automated workflow for predictive subsurface modeling and characterization. FMU automates all steps through all disciplines from seismic depth conversion to prediction and reservoir management, enabling faster model updates, cross-disciplinary collaboration, scalable sensitivity runs and screening as well as uncertainty-centric and ensemble-based modeling._
 

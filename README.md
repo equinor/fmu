@@ -4,6 +4,8 @@ This is a landing repo for everything FMU. The purpose of this repo is to give o
 _Fast Model Update (FMU) is an integrated and automated workflow for predictive subsurface modeling and characterization. FMU automates all steps through all disciplines from seismic depth conversion to prediction and reservoir management, enabling faster model updates, cross-disciplinary collaboration, scalable sensitivity runs and screening as well as uncertainty-centric and ensemble-based modeling._
 
 ## Relevant repositories as a quick reference and guide to the FMU ecosystem
+https://github.com/equinor/ert
+
 https://github.com/equinor/fmu-tools
 
 https://github.com/equinor/fmu-config
@@ -25,8 +27,6 @@ https://github.com/equinor/fmu-pygments (internal 🔒)
 _Repositories missing on this list? Please contribute!_
 
 ## Close relatives ❤
-https://github.com/equinor/ert
-
 https://github.com/equinor/webviz-config
 
 https://github.com/equinor/webviz-subsurface

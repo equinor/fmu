@@ -1,7 +1,9 @@
 # Fast Model Update<sup><small>TM</small></sup> (FMU)
 This is a landing repo for everything FMU. The purpose of this repo is to create an easier entrance to the FMU ecosystem both for internal and external users and contributors. 
 
-# List of repositories
+_Fast Model Update (FMU) is an integrated and automated workflow for predictive subsurface modeling and characterization. FMU automates all steps through all disciplines from seismic depth conversion to prediction and reservoir management, enabling faster model updates, cross-disciplinary collaboration, scalable sensitivity runs and screening as well as uncertainty-centric and ensemble-based modeling._
+
+## Relevant repositories as a quick reference and guide to the FMU ecosystem
 https://github.com/equinor/ert
 
 https://github.com/equinor/fmu-tools
@@ -24,7 +26,7 @@ https://github.com/equinor/fmu-pygments (internal 🔒)
 
 _Repositories missing on this list? Please contribute!_
 
-# Close friends ❤
+## Close relatives ❤
 https://github.com/equinor/webviz-config
 
 https://github.com/equinor/webviz-subsurface
@@ -39,13 +41,15 @@ https://github.com/equinor/segyio
 
 https://github.com/equinor/oneseismic
 
+https://github.com/equinor/pyscal
 
-# Stuff we like 🙌
+_Repositories missing on this list? Please contribute!_
+
+
+## Stuff we like 🙌
 https://github.com/plotly
 
-
-# How to contribute
-Something missing? Something wrong? Please contribute! 🙏
+_Repositories missing on this list? Please contribute!_
 
 # License
 _Fast Model Update is a registered trademark_

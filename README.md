@@ -46,11 +46,6 @@ https://github.com/equinor/pyscal
 _Repositories missing on this list? Please contribute!_
 
 
-## Stuff we like 🙌
-https://github.com/plotly
-
-_Repositories missing on this list? Please contribute!_
-
 # License
 _Fast Model Update is a registered trademark_
 

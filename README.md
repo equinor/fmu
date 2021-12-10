@@ -50,6 +50,8 @@ https://github.com/equinor/ecl2df
 
 https://github.com/equinor/semeio
 
+https://github.com/equinor/si4ti
+
 _Repositories missing on this list? Please contribute!_
 
 

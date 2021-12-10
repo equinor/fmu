@@ -52,6 +52,8 @@ https://github.com/equinor/semeio
 
 https://github.com/equinor/open_petro_elastic
 
+https://github.com/equinor/si4ti
+
 _Repositories missing on this list? Please contribute!_
 
 

@@ -9,8 +9,6 @@ Fast Model Update (FMU) is an integrated and automated workflow for predictive s
 ## Repositories 🧩
 https://github.com/equinor/ert
 
-https://github.com/equinor/fmu-tools
-
 https://github.com/equinor/fmu-config
 
 https://github.com/equinor/fmu-dataio
@@ -18,6 +16,8 @@ https://github.com/equinor/fmu-dataio
 https://github.com/equinor/fmu-ensemble
 
 https://github.com/equinor/fmu-sumo
+
+https://github.com/equinor/fmu-tools
 
 https://github.com/equinor/fmu-docs (internal 🔒)
 
@@ -30,29 +30,32 @@ https://github.com/equinor/fmu-pygments (internal 🔒)
 _Repositories missing on this list? Please contribute!_
 
 ## Close relatives ❤
+https://github.com/equinor/ecl
+
+https://github.com/equinor/ecl2df
+
+https://github.com/equinor/ecl-data-io
+
+https://github.com/equinor/oneseismic
+
+https://github.com/equinor/open_petro_elastic
+
+https://github.com/equinor/pyscal
+
+https://github.com/equinor/segyio
+
+https://github.com/equinor/semeio
+
+https://github.com/equinor/si4ti
+
+https://github.com/equinor/subscript
+
 https://github.com/equinor/webviz-config
 
 https://github.com/equinor/webviz-subsurface
 
 https://github.com/equinor/xtgeo
 
-https://github.com/equinor/ecl
-
-https://github.com/equinor/subscript
-
-https://github.com/equinor/segyio
-
-https://github.com/equinor/oneseismic
-
-https://github.com/equinor/pyscal
-
-https://github.com/equinor/ecl2df
-
-https://github.com/equinor/semeio
-
-https://github.com/equinor/open_petro_elastic
-
-https://github.com/equinor/si4ti
 
 _Repositories missing on this list? Please contribute!_
 

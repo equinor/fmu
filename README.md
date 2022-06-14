@@ -44,6 +44,8 @@ https://github.com/equinor/pyscal
 
 https://github.com/equinor/segyio
 
+https://github.com/equinor/seismic-forward
+
 https://github.com/equinor/semeio
 
 https://github.com/equinor/si4ti

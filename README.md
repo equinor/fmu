@@ -21,7 +21,7 @@ https://github.com/equinor/fmu-tools
 
 https://github.com/equinor/fmu-docs (internal 🔒)
 
-https://github.com/equinor/fmu-course-docs (internal 🔒)
+https://github.com/equinor/fmu-coursedocs (internal 🔒)
 
 https://github.com/equinor/fmu-logging (internal 🔒)
 

@@ -27,6 +27,8 @@ https://github.com/equinor/fmu-logging (internal 🔒)
 
 https://github.com/equinor/fmu-pygments (internal 🔒)
 
+https://github.com/equinor/fmu-drogon (internal 🔒)
+
 _Repositories missing on this list? Please contribute!_
 
 ## Close relatives ❤

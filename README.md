@@ -38,6 +38,8 @@ https://github.com/equinor/ecl2df
 
 https://github.com/equinor/ecl-data-io
 
+https://github.com/equinor/everest (internal 🔒)
+
 https://github.com/equinor/oneseismic
 
 https://github.com/equinor/open_petro_elastic

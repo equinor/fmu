@@ -17,7 +17,13 @@ https://github.com/equinor/fmu-ensemble
 
 https://github.com/equinor/fmu-sumo
 
+https://github.com/equinor/fmu-sumo-uploader
+
+https://github.com/equinor/fmu-sumo-sim2sumo
+
 https://github.com/equinor/fmu-tools
+
+https://github.com/equinor/fmu-ops (internal 🔒)
 
 https://github.com/equinor/fmu-docs (internal 🔒)
 
@@ -53,6 +59,8 @@ https://github.com/equinor/semeio
 https://github.com/equinor/si4ti
 
 https://github.com/equinor/subscript
+
+https://github.com/equinor/sumo
 
 https://github.com/equinor/webviz-config
 

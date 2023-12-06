@@ -1,5 +1,5 @@
 # Fast Model Update<sup><small>™</small></sup> (FMU)
-<img align="right" width="30%" src="./logo/FMU Green.svg">
+<img align="right" width="30%" src="./symbol/FMU Green.svg">
 
 Fast Model Update (FMU) is an integrated and automated workflow for predictive subsurface modeling and characterization. FMU automates all steps through all disciplines from seismic depth conversion to prediction and reservoir management, enabling faster model updates, cross-disciplinary collaboration, scalable sensitivity runs and screening as well as uncertainty-centric and ensemble-based modeling.
 

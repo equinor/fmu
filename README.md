@@ -1,8 +1,8 @@
 # Fast Model Update<sup><small>™</small></sup> (FMU)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./symbol/FMU Black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./symbol/FMU White.svg">
-  <img alt="FMU symbol." src="./symbol/FMU Black.svg" align="right" width="30%">
+  <source media="(prefers-color-scheme: dark)" srcset="./symbol/FMU White.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./symbol/FMU Black.svg">
+  <img alt="FMU symbol." src="./symbol/FMU White.svg" align="right" width="30%">
 </picture>
 
 FMU is an integrated and automated workflow for predictive subsurface modeling and characterization. It enables automation of all steps through all disciplines from seismic depth conversion to prediction and reservoir management, enabling faster model updates, cross-disciplinary collaboration, scalable sensitivity runs and screening as well as uncertainty-centric and ensemble-based modeling.

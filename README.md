@@ -1,7 +1,7 @@
 # Fast Model Update<sup><small>™</small></sup> (FMU)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./symbol/FMU White.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./symbol/FMU Black.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./symbol/FMU Black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./symbol/FMU White.svg">
   <img alt="FMU symbol." src="./symbol/FMU Black.svg" align="right" width="30%">
 </picture>
 

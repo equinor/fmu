@@ -38,11 +38,11 @@ https://github.com/equinor/fmu-drogon (internal 🔒)
 _Repositories missing on this list? Please contribute!_
 
 ## Close relatives ❤
-https://github.com/equinor/ecl
+https://github.com/equinor/resdata
 
-https://github.com/equinor/ecl2df
+https://github.com/equinor/res2df
 
-https://github.com/equinor/ecl-data-io
+https://github.com/equinor/resfo
 
 https://github.com/equinor/everest (internal 🔒)
 

@@ -44,7 +44,7 @@ https://github.com/equinor/ecl2df
 
 https://github.com/equinor/ecl-data-io
 
-https://github.com/equinor/everest (internal 🔒)
+https://github.com/equinor/everest
 
 https://github.com/equinor/oneseismic
 

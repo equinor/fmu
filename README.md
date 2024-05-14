@@ -44,7 +44,7 @@ https://github.com/equinor/res2df
 
 https://github.com/equinor/resfo
 
-https://github.com/equinor/everest (internal 🔒)
+https://github.com/equinor/everest
 
 https://github.com/equinor/oneseismic
 

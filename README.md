@@ -11,15 +11,27 @@ https://github.com/equinor/ert
 
 https://github.com/equinor/everest
 
-https://github.com/equinor/sumo
-
 https://github.com/equinor/webviz
 
 https://github.com/equinor/fmu-config
 
 https://github.com/equinor/fmu-dataio
 
+https://github.com/equinor/fmu-editor
+
 https://github.com/equinor/fmu-ensemble
+
+https://github.com/equinor/fmu-drogon
+
+https://github.com/equinor/fmu-drogon-flow-files
+
+https://github.com/equinor/fmu-pem
+
+https://github.com/equinor/fmu-portal-ui
+
+https://github.com/equinor/fmu-portal-api
+
+https://github.com/equinor/fmu-site-configuration
 
 https://github.com/equinor/fmu-sumo
 
@@ -27,25 +39,13 @@ https://github.com/equinor/fmu-sumo-uploader
 
 https://github.com/equinor/fmu-sumo-sim2sumo
 
-https://github.com/equinor/fmu-tools
-
-https://github.com/equinor/fmu-pem
-
 https://github.com/equinor/fmu-settings
 
 https://github.com/equinor/fmu-settings-gui
 
-https://github.com/equinor/fmu-portal-ui
+https://github.com/equinor/fmu-tools
 
-https://github.com/equinor/fmu-portal-api
-
-https://github.com/equinor/fmu-drogon
-
-https://github.com/equinor/fmu-site-configuration
-
-https://github.com/equinor/fmu-drogon-flow-files
-
-https://github.com/equinor/fmu-editor
+https://github.com/equinor/sumo (internal 🔒)
 
 https://github.com/equinor/fmu-ops (internal 🔒)
 

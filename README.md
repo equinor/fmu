@@ -41,6 +41,8 @@ https://github.com/equinor/fmu-settings
 
 https://github.com/equinor/fmu-settings-gui
 
+https://github.com/equinor/fmu-sim2seis
+
 https://github.com/equinor/fmu-tools
 
 https://github.com/equinor/everest-tutorials
@@ -58,8 +60,6 @@ https://github.com/equinor/fmu-coursedocs (internal 🔒)
 https://github.com/equinor/fmu-logging (internal 🔒)
 
 https://github.com/equinor/fmu-pygments (internal 🔒)
-
-https://github.com/equinor/fmu-sim2seis (internal 🔒)
 
 _Repositories missing on this list? Please contribute!_
 

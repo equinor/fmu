@@ -9,8 +9,6 @@ Fast Model Update (FMU) is an integrated and automated workflow for predictive s
 ## Repositories 🧩
 https://github.com/equinor/ert
 
-https://github.com/equinor/everest
-
 https://github.com/equinor/webviz
 
 https://github.com/equinor/fmu-config
@@ -44,6 +42,8 @@ https://github.com/equinor/fmu-settings
 https://github.com/equinor/fmu-settings-gui
 
 https://github.com/equinor/fmu-tools
+
+https://github.com/equinor/everest-tutorials
 
 https://github.com/equinor/sumo (internal 🔒)
 
